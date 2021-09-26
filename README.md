@@ -1,2 +1,2 @@
-# codewars
-CODING CHALLENGES IN JAVASCRIPT
+# my codewars
+These are my soultions to problems on codewars
