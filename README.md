@@ -1,2 +1,2 @@
 # my codewars
-These are my soultions to problems on codewars
+Soultions to problems on codewars, 5-7 problems a week
