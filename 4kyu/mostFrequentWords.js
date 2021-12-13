@@ -9,7 +9,7 @@ function topThreeWords(text) {
     //the modifiers => i means ignore the case, g means its global so find more than just the first 
     //element and m means this might have multiple lines
     //the b is a boundary - look into this more
-    
+     
     let reg = /\b[\w?']+\b/igm
     let obj = {}
     //matching the inputed text with the regex rules 
