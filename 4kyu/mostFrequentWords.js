@@ -3,7 +3,7 @@ function topThreeWords(text) {
     // the \w is matching any alphabetical or numerical element 
     //the queston mark is making the apostrophe optional - any word or apostrophe
     //the plus is saying that as long as the result comes back as true,
-    //its going to keep looking until it gets a false result => and anything past that 
+    //its going to keep looking until it gets a false result => and anything past that  
     // is not going to looked at
     //you need the forward/backlash to let js know we're using regex
     //the modifiers => i means ignore the case, g means its global so find more than just the first 
